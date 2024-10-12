@@ -20,7 +20,7 @@ I am an undergraduate student pursuing a degree in Software Engineering. I have 
 
 - **Orenco Hotel Website**: A comprehensive website developed for a hotel as part of my web application development module. [git@github.com:mcramanayake/Orenco-Website.git](#)
 - **DEA Web Application***: The project includes various features and pages designed to enhance the user experience and functionality.[git@github.com:mcramanayake/DEA-E-Commerce-Website.git](#)
-- - **Skills International School Student Registration Application**: A C# and .NET-based Windows Forms application for managing student registrations. Integrated with SQL Server, it includes features like registration, viewing, updating, and deleting student records. [git@github.com:mcramanayake/Student-Registration-Application.git](#)
+- **Student Registration Application**: A C# and .NET-based Windows Forms application for managing student registrations. Integrated with SQL Server, it includes features like registration, viewing, updating, and deleting student records. [git@github.com:mcramanayake/Student-Registration-Application.git](#)
 
 ## 📫 How to Reach Me
 
