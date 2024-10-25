@@ -49,5 +49,3 @@ Feel free to connect with me for collaboration or any questions you might have!
 
 ---
 
-*Generated with ❤️ by Chinthaka*
-
