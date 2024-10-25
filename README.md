@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I am an undergraduate student pursuing a degree in Software Engineering. I have a passion for developing web applications and working on exciting projects. 
+I am an undergraduate student pursuing a degree in Software Engineering. I have a passion for developing web applications, softwares and working on exciting projects. 
 
 ## 🚀 Skills
 
